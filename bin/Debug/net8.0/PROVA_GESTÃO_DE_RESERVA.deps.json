@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PROVA_GESTÃO_DE_RESERVA/1.0.0": {
+        "runtime": {
+          "PROVA_GESTÃO_DE_RESERVA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROVA_GESTÃO_DE_RESERVA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
